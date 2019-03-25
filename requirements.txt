@@ -1,0 +1,7 @@
+cryptography
+Flask
+pymysql
+bleach
+bcrypt
+PyJWT
+html2text
